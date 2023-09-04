@@ -7,7 +7,7 @@
 
 - 🔭 I’m a fresh graduate from the **Faculty of Engineering, Helwan University**
 
-- 🌱 I’m currently learning **MERN Stack, Deep learning, Computer vision, Embedded Linux, Software Engineering**
+- 🌱 I’m currently learning **Cyber Security, MERN Stack, Deep learning, Computer vision, Embedded Linux, Software Engineering**
 
 - 📫 How to reach me **sayko117@gmail.com**
 
