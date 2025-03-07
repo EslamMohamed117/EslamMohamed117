@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eslammmm_" target="blank"><img src="https://img.shields.io/twitter/follow/eslammmm_?logo=twitter&style=for-the-badge" alt="eslammmm_" /></a> </p>
 
-- 🔭 I’m a <strong><i>Full Stack Engineer</i></strong> employed at **Turnkey Integrated Technologies**
+- 🔭 I’m a <strong><i>Software Engineer</i></strong> employed at **Turnkey Integrated Technologies**
 
 <!-- - 🌱 I’m currently learning **Cyber Security, MERN Stack, Deep learning, Computer vision, Embedded Linux, Software Engineering**-->
 - 📫 How to reach me **sayko117@gmail.com**
